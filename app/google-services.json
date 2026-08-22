@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171581752949",
+    "project_id": "bikeville-app",
+    "storage_bucket": "bikeville-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171581752949:android:8cc0b600aa9ad32e059a3c",
+        "android_client_info": {
+          "package_name": "com.example.bykeville"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYd8GKXy4NMEQ5S_RJqGvnYJSrVvCTZXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">CicloItapoá</string>
+    <string name="login_title">Bem-vindo ao CicloItapoá</string>
+    <string name="select_profile">Selecione seu Perfil</string>
+    <string name="profile_aluno">Aluno</string>
+    <string name="profile_funcionario">Funcionário</string>
+    <string name="profile_diretor">Diretor</string>
+    <string name="hint_matricula">Matrícula</string>
+    <string name="hint_senha">Senha de Acesso</string>
+    <string name="button_acessar">Acessar</string>
+    <string name="btn_acessar">Acessar</string>
+</resources>
